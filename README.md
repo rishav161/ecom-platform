@@ -26,7 +26,7 @@ npm start	Start the production server
 🔌 API Documentation
 API is documented using Swagger.
 Run the project and visit:
-http://localhost:5000/api-docs
+http://localhost:5000/api/docs/
 
 Contributors
 Rishav Jaiswal
